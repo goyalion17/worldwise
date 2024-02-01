@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import { useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -21,7 +22,7 @@ export function convertToEmoji(countryCode) {
 
 const BASE_URL = `https://api.bigdatacloud.net/data/reverse-geocode-client`;
 
-function Form() {
+export default function Form() {
   const [lat, lng] = useUrlPosition();
   const { createCity, isLoading } = useCities();
   const navigate = useNavigate();
@@ -131,5 +132,3 @@ function Form() {
     </form>
   );
 }
-
-export default Form;
