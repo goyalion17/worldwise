@@ -13,15 +13,27 @@
       }
     },
     {
-      "id": "17a9",
-      "cityName": "Kozli",
-      "country": "Czechia",
-      "emoji": "🇨🇿",
-      "date": "2024-01-31T19:39:32.475Z",
-      "notes": "dsd",
+      "id": "191e",
+      "cityName": "Urciers",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-01T13:45:30.307Z",
+      "notes": "gfh",
       "position": {
-        "lat": "49.66762782262194",
-        "lng": "15.249023437500002"
+        "lat": "46.51351558059737",
+        "lng": "2.1093750000000004"
+      }
+    },
+    {
+      "id": "f680",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-01T13:45:39.287Z",
+      "notes": "hfgh",
+      "position": {
+        "lat": "48.84664340683584",
+        "lng": "2.4224853515625004"
       }
     }
   ]
