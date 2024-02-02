@@ -1,51 +1,567 @@
 {
   "cities": [
     {
-      "id": "eacd",
-      "cityName": "Wald am Schoberpaß",
-      "country": "Austria",
-      "emoji": "🇦🇹",
-      "date": "2024-01-31T19:38:00.424Z",
+      "id": "c03b",
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-02-02T15:23:15.989Z",
       "notes": "",
       "position": {
-        "lat": "47.42808726171425",
-        "lng": "14.677734375000002"
+        "lat": "50.08644584297188",
+        "lng": "14.425392150878908"
       }
     },
     {
-      "id": "191e",
-      "cityName": "Urciers",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-02-01T13:45:30.307Z",
-      "notes": "gfh",
+      "id": "bd38",
+      "cityName": "Zgorzelec",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-02-02T15:23:44.043Z",
+      "notes": "",
       "position": {
-        "lat": "46.51351558059737",
-        "lng": "2.1093750000000004"
+        "lat": "51.14704810491208",
+        "lng": "15.008697509765627"
       }
     },
     {
-      "id": "f680",
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-02-01T13:45:39.287Z",
-      "notes": "hfgh",
+      "id": "166a",
+      "cityName": "Gorlitz",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:23:49.637Z",
+      "notes": "",
       "position": {
-        "lat": "48.84664340683584",
-        "lng": "2.4224853515625004"
+        "lat": "51.155931449371096",
+        "lng": "14.990243911743166"
       }
     },
     {
-      "id": "4212",
+      "id": "8179",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:24:05.245Z",
+      "notes": "",
+      "position": {
+        "lat": "52.52457705042609",
+        "lng": "13.450012207031252"
+      }
+    },
+    {
+      "id": "922a",
+      "cityName": "Hamburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:25:13.907Z",
+      "notes": "",
+      "position": {
+        "lat": "53.550915205894206",
+        "lng": "10.042877197265627"
+      }
+    },
+    {
+      "id": "9789",
       "cityName": "Munich",
       "country": "Germany",
       "emoji": "🇩🇪",
-      "date": "2024-02-02T13:41:28.567Z",
+      "date": "2024-02-02T15:25:27.837Z",
       "notes": "",
       "position": {
-        "lat": "48.133100659448935",
-        "lng": "11.615295410156252"
+        "lat": "48.144097934938884",
+        "lng": "11.62353515625"
+      }
+    },
+    {
+      "id": "f93b",
+      "cityName": "Nurnberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:25:44.652Z",
+      "notes": "",
+      "position": {
+        "lat": "49.45830600175986",
+        "lng": "11.120910644531252"
+      }
+    },
+    {
+      "id": "12dd",
+      "cityName": "Dresden",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:26:46.093Z",
+      "notes": "",
+      "position": {
+        "lat": "51.054344119247425",
+        "lng": "13.767242431640627"
+      }
+    },
+    {
+      "id": "0989",
+      "cityName": "Stolpen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:27:05.133Z",
+      "notes": "",
+      "position": {
+        "lat": "51.04743778523849",
+        "lng": "14.081382751464846"
+      }
+    },
+    {
+      "id": "fdcb",
+      "cityName": "Bautzen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:27:21.309Z",
+      "notes": "",
+      "position": {
+        "lat": "51.18149516703029",
+        "lng": "14.426250457763674"
+      }
+    },
+    {
+      "id": "0b8e",
+      "cityName": "Stadt Wehlen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:28:18.380Z",
+      "notes": "",
+      "position": {
+        "lat": "50.956804793435694",
+        "lng": "14.032158851623537"
+      }
+    },
+    {
+      "id": "3d81",
+      "cityName": "Konigstein",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:29:05.044Z",
+      "notes": "",
+      "position": {
+        "lat": "50.918023821155565",
+        "lng": "14.073486328125002"
+      }
+    },
+    {
+      "id": "f520",
+      "cityName": "Bad Schandau",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:29:19.196Z",
+      "notes": "",
+      "position": {
+        "lat": "50.917915600264365",
+        "lng": "14.150390625000002"
+      }
+    },
+    {
+      "id": "79b3",
+      "cityName": "Hrensko",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-02-02T15:31:45.923Z",
+      "notes": "",
+      "position": {
+        "lat": "50.88457497239064",
+        "lng": "14.280123710632326"
+      }
+    },
+    {
+      "id": "8bb7",
+      "cityName": "Wroclaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-02-02T15:32:56.275Z",
+      "notes": "",
+      "position": {
+        "lat": "51.108156628055646",
+        "lng": "17.031726837158207"
+      }
+    },
+    {
+      "id": "89f4",
+      "cityName": "Przemysl",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-02-02T15:33:35.780Z",
+      "notes": "",
+      "position": {
+        "lat": "49.782815835669034",
+        "lng": "22.77397155761719"
+      }
+    },
+    {
+      "id": "e0f8",
+      "cityName": "Chemnitz",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:34:26.292Z",
+      "notes": "",
+      "position": {
+        "lat": "50.83152928534991",
+        "lng": "12.919921875000002"
+      }
+    },
+    {
+      "id": "1944",
+      "cityName": "Meissen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:34:51.443Z",
+      "notes": "",
+      "position": {
+        "lat": "51.1622295119884",
+        "lng": "13.46923828125"
+      }
+    },
+    {
+      "id": "9d1a",
+      "cityName": "Coswig",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:34:56.308Z",
+      "notes": "",
+      "position": {
+        "lat": "51.12572110072603",
+        "lng": "13.57841491699219"
+      }
+    },
+    {
+      "id": "3132",
+      "cityName": "Weinbohla",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:35:04.892Z",
+      "notes": "",
+      "position": {
+        "lat": "51.16814998329642",
+        "lng": "13.58562469482422"
+      }
+    },
+    {
+      "id": "e0ab",
+      "cityName": "Simferopol",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:39:18.517Z",
+      "notes": "",
+      "position": {
+        "lat": "44.95702412512118",
+        "lng": "34.14276123046876"
+      }
+    },
+    {
+      "id": "fc91",
+      "cityName": "Bakhchysarai",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:40:02.524Z",
+      "notes": "",
+      "position": {
+        "lat": "44.75087831346909",
+        "lng": "33.85128021240235"
+      }
+    },
+    {
+      "id": "a1c1",
+      "cityName": "Donetsk",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:40:46.244Z",
+      "notes": "",
+      "position": {
+        "lat": "48.01473114624478",
+        "lng": "37.803268432617195"
+      }
+    },
+    {
+      "id": "8ded",
+      "cityName": "Makiivka",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:40:53.652Z",
+      "notes": "",
+      "position": {
+        "lat": "48.04136507445029",
+        "lng": "37.968063354492195"
+      }
+    },
+    {
+      "id": "eae0",
+      "cityName": "Horlivka",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:41:46.027Z",
+      "notes": "",
+      "position": {
+        "lat": "48.302837012248645",
+        "lng": "37.99964904785157"
+      }
+    },
+    {
+      "id": "80e4",
+      "cityName": "Kramatorsk",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:42:03.916Z",
+      "notes": "",
+      "position": {
+        "lat": "48.73739898534618",
+        "lng": "37.585258483886726"
+      }
+    },
+    {
+      "id": "1e5f",
+      "cityName": "Kostiantynivka",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:42:11.862Z",
+      "notes": "",
+      "position": {
+        "lat": "48.53752248583047",
+        "lng": "37.73391723632813"
+      }
+    },
+    {
+      "id": "f29c",
+      "cityName": "Sloviansk",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:42:27.965Z",
+      "notes": "",
+      "position": {
+        "lat": "48.85206549830759",
+        "lng": "37.60568618774415"
+      }
+    },
+    {
+      "id": "1982",
+      "cityName": "Svyatogorsk",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:42:38.781Z",
+      "notes": "",
+      "position": {
+        "lat": "49.03381654386847",
+        "lng": "37.56259918212891"
+      }
+    },
+    {
+      "id": "872b",
+      "cityName": "Izium",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:43:03.139Z",
+      "notes": "",
+      "position": {
+        "lat": "49.192025499612505",
+        "lng": "37.27935791015626"
+      }
+    },
+    {
+      "id": "fab6",
+      "cityName": "Kharkiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:43:11.486Z",
+      "notes": "",
+      "position": {
+        "lat": "50.00244316883108",
+        "lng": "36.28784179687501"
+      }
+    },
+    {
+      "id": "8dee",
+      "cityName": "Lviv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:43:42.707Z",
+      "notes": "",
+      "position": {
+        "lat": "49.85569332253434",
+        "lng": "24.114990234375004"
+      }
+    },
+    {
+      "id": "4d21",
+      "cityName": "Mariupol",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:44:41.563Z",
+      "notes": "",
+      "position": {
+        "lat": "47.09724013895744",
+        "lng": "37.58285522460938"
+      }
+    },
+    {
+      "id": "2c51",
+      "cityName": "Pokrovsk",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:46:34.067Z",
+      "notes": "",
+      "position": {
+        "lat": "48.28319289548349",
+        "lng": "37.22579956054688"
+      }
+    },
+    {
+      "id": "75d9",
+      "cityName": "Manhush",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:47:09.796Z",
+      "notes": "",
+      "position": {
+        "lat": "46.91275095637894",
+        "lng": "37.100143432617195"
+      }
+    },
+    {
+      "id": "9b6f",
+      "cityName": "Manhush",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:47:30.877Z",
+      "notes": "",
+      "position": {
+        "lat": "46.95213711682888",
+        "lng": "37.39883422851563"
+      }
+    },
+    {
+      "id": "2e74",
+      "cityName": "Novoazovs'k",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-02-02T15:47:43.923Z",
+      "notes": "",
+      "position": {
+        "lat": "47.112663363777635",
+        "lng": "38.08273315429688"
+      }
+    },
+    {
+      "id": "7546",
+      "cityName": "Bad Schandau",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:50:21.588Z",
+      "notes": "",
+      "position": {
+        "lat": "50.891556320611755",
+        "lng": "14.231758117675783"
+      }
+    },
+    {
+      "id": "d748",
+      "cityName": "Bad Schandau",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:51:23.604Z",
+      "notes": "",
+      "position": {
+        "lat": "50.91203071038434",
+        "lng": "14.202961921691896"
+      }
+    },
+    {
+      "id": "4c1f",
+      "cityName": "Bad Schandau",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:51:28.972Z",
+      "notes": "",
+      "position": {
+        "lat": "50.911090411905796",
+        "lng": "14.200011491775514"
+      }
+    },
+    {
+      "id": "abb2",
+      "cityName": "Bad Schandau",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:52:13.884Z",
+      "notes": "",
+      "position": {
+        "lat": "50.93023763675611",
+        "lng": "14.08528804779053"
+      }
+    },
+    {
+      "id": "7b35",
+      "cityName": "Rathen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:53:24.307Z",
+      "notes": "",
+      "position": {
+        "lat": "50.95807531001391",
+        "lng": "14.08172607421875"
+      }
+    },
+    {
+      "id": "566a",
+      "cityName": "Lohmen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:53:41.995Z",
+      "notes": "",
+      "position": {
+        "lat": "50.96167041337127",
+        "lng": "14.072349071502686"
+      }
+    },
+    {
+      "id": "14d3",
+      "cityName": "Leipzig",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:56:39.140Z",
+      "notes": "",
+      "position": {
+        "lat": "51.34004940750071",
+        "lng": "12.410430908203127"
+      }
+    },
+    {
+      "id": "444f",
+      "cityName": "Moritzburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T15:58:19.371Z",
+      "notes": "",
+      "position": {
+        "lat": "51.1580308991086",
+        "lng": "13.68450164794922"
+      }
+    },
+    {
+      "id": "355b",
+      "cityName": "Dresden",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T16:00:08.875Z",
+      "notes": "",
+      "position": {
+        "lat": "51.00956954679667",
+        "lng": "13.869874477386476"
+      }
+    },
+    {
+      "id": "b7f8",
+      "cityName": "Pirna",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-02T16:01:19.971Z",
+      "notes": "",
+      "position": {
+        "lat": "50.96150823424881",
+        "lng": "13.939418792724611"
       }
     }
   ]
